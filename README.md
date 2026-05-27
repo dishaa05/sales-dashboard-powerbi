@@ -16,4 +16,5 @@ Interactive Power BI dashboard for analyzing sales performance from 2020-2022.
 - Data Visualization
 
 ## Dashboard Preview
-<img width="801" height="446" alt="Screenshot 2026-05-26 150640" src="https://github.com/user-attachments/assets/5e5dcc55-19cc-45e8-8371-6b0b076ef0a8" />
+![Dashboard](dashboard.png.jpeg)
+
